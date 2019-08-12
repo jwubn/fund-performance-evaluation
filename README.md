@@ -1,7 +1,7 @@
 # FundPerformanceEvaluation
-This repository will introduce analyze the performance of a multi-asset fund, UPAMC All Weather-A fund (0P00006AC3.TW), improve its risk-return profile by hedging the exposure to equity market risk using options, and evaluate its sensitivity to a number of risk factors.
+- This repository will introduce analyze the performance of a multi-asset fund, UPAMC All Weather-A fund (0P00006AC3.TW), improve its risk-return profile by hedging the exposure to equity market risk using options, and evaluate its sensitivity to a number of risk factors.
 
-Data: Data for all instruments and indices below can be downloaded from Yahoo Finance (ticker in parenthesis). Consider monthly data frequency for the analysis and simulations.
+- Data: Data for all instruments and indices below can be downloaded from Yahoo Finance (ticker in parenthesis). Consider monthly data frequency for the analysis and simulations.
 
 3 steps as follows:
 1. Provide the statistics for the fund since inception: annualized return and volatility, Sharpe ratio, max. drawdown, correlation and beta to S&P 500.
